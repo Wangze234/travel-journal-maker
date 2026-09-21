@@ -1,0 +1,74 @@
+{
+  "generated_at": "2026-09-21 14:21",
+  "weather": [
+    {
+      "city": "大连市",
+      "lat": 38.91222,
+      "lon": 121.60222,
+      "ok": true,
+      "days": [
+        {
+          "date": "2026-09-26",
+          "tmax": 25.7,
+          "tmin": 20.9,
+          "desc": "阴",
+          "emoji": "☁️",
+          "pop": 39
+        },
+        {
+          "date": "2026-09-27",
+          "tmax": 24.2,
+          "tmin": 20.6,
+          "desc": "小毛雨",
+          "emoji": "🌦",
+          "pop": 35
+        },
+        {
+          "date": "2026-09-28",
+          "tmax": 22.7,
+          "tmin": 17.4,
+          "desc": "毛毛雨",
+          "emoji": "🌦",
+          "pop": 22
+        },
+        {
+          "date": "2026-09-29",
+          "tmax": 22.3,
+          "tmin": 17.9,
+          "desc": "阴",
+          "emoji": "☁️",
+          "pop": 22
+        }
+      ]
+    }
+  ],
+  "hotels": [
+    {
+      "city": "大连",
+      "links": {
+        "百度地图_酒店搜索": "https://map.baidu.com/search/%E5%A4%A7%E8%BF%9E%E9%85%92%E5%BA%97",
+        "高德地图_酒店搜索": "https://uri.amap.com/search?keyword=%E5%A4%A7%E8%BF%9E%E9%85%92%E5%BA%97&city=%E5%A4%A7%E8%BF%9E",
+        "携程_目的地搜索": "https://you.ctrip.com/searchsite/?query=%E5%A4%A7%E8%BF%9E%E9%85%92%E5%BA%97",
+        "携程_酒店列表": "https://hotels.ctrip.com/hotels/list?city=&keyword=%E5%A4%A7%E8%BF%9E%E9%85%92%E5%BA%97&checkin=20260926&checkout=20260929"
+      }
+    }
+  ],
+  "routes": [
+    {
+      "from": "大连北站",
+      "to": "星海广场",
+      "result": {
+        "distance_km": 37.9,
+        "duration_min": 35
+      },
+      "note": null
+    },
+    {
+      "from": "大连",
+      "to": "旅顺",
+      "result": null,
+      "note": "缺少可用坐标或路线接口不可用，可用打车常识估算"
+    }
+  ],
+  "notes": []
+}

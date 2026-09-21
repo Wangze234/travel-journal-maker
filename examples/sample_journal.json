@@ -1,0 +1,66 @@
+{
+  "trip_title": "大连四日游",
+  "en_tagline": "DALIAN TRAVEL 2026",
+  "title_lines": ["大连", "海风四日慢游手帐"],
+  "subtitle": "2026.09.26 – 09.29 · 海岸线、老街与落日",
+  "tags": ["海滨城市", "慢节奏", "海鲜控", "情侣/家庭"],
+  "days": [
+    {
+      "date_num": "26", "weekday": "周六", "theme": "抵达 · 海边初见", "pace": "轻松踩点",
+      "items": [
+        {"time": "14:00", "emoji": "🚄", "title": "抵达大连北站", "note": "地铁转酒店放行李"},
+        {"time": "16:30", "emoji": "🌊", "title": "星海广场看海", "note": "海边散步吹风"},
+        {"time": "18:30", "emoji": "🦐", "title": "晚餐 · 铁锅焖海鲜", "note": "本地小馆"}
+      ]
+    },
+    {
+      "date_num": "27", "weekday": "周日", "theme": "老街 · 有轨电车", "pace": "citywalk",
+      "items": [
+        {"time": "09:30", "emoji": "🚋", "title": "乘 201 路老电车", "note": "复古木质车厢"},
+        {"time": "11:00", "emoji": "⛪", "title": "中山广场看老建筑", "note": "环形欧式建筑群"},
+        {"time": "15:00", "emoji": "🐚", "title": "东港威尼斯水城", "note": "拍照 + 咖啡"}
+      ]
+    },
+    {
+      "date_num": "28", "weekday": "周一", "theme": "海岛 · 跨海索道", "pace": "看海一整天",
+      "items": [
+        {"time": "全天", "emoji": "⛴", "title": "棒棰岛 / 老虎滩", "note": "海洋公园+极地馆"},
+        {"time": "17:30", "emoji": "🌅", "title": "滨海路看日落", "note": "傍晚风大带外套"}
+      ]
+    },
+    {
+      "date_num": "29", "weekday": "周二", "theme": "收尾 · 带海味回家", "pace": "从容返程",
+      "items": [
+        {"time": "10:00", "emoji": "🛍", "title": "买海产伴手礼", "note": "海参、虾干"},
+        {"time": "14:00", "emoji": "🚄", "title": "大连北站返程", "note": "提前 1h 到站"}
+      ]
+    }
+  ],
+  "weather": [
+    {"date": "09-26", "emoji": "☁️", "desc": "阴", "tmin": 21, "tmax": 26, "advice": "长袖+薄外套"},
+    {"date": "09-27", "emoji": "🌦", "desc": "小毛雨", "tmin": 21, "tmax": 24, "advice": "带把伞"},
+    {"date": "09-28", "emoji": "🌦", "desc": "毛毛雨", "tmin": 17, "tmax": 23, "advice": "外套别忘"},
+    {"date": "09-29", "emoji": "☁️", "desc": "阴", "tmin": 18, "tmax": 22, "advice": "外套"}
+  ],
+  "weather_tip": "海边早晚温差大、风大，备一件防风外套；雨天滨海路湿滑注意脚下。数据来自 Open-Meteo 公开预报。",
+  "hotels": [
+    {
+      "area": "星海广场片区", "feature": "看海、离景点近、餐饮多",
+      "links": {
+        "携程": "https://hotels.ctrip.com/hotels/list?city=&keyword=%E5%A4%A7%E8%BF%9E%E9%85%92%E5%BA%97&checkin=20260926&checkout=20260929",
+        "高德/百度": "https://uri.amap.com/search?keyword=%E5%A4%A7%E8%BF%9E%E9%85%92%E5%BA%97&city=%E5%A4%A7%E8%BF%9E"
+      }
+    }
+  ],
+  "info_cards": [
+    {
+      "title": "🚗 交通提示",
+      "rows": [
+        {"k": "大连北站→星海", "v": "驾车约 37.9km · 35 分钟(OSRM 实测)"},
+        {"k": "市内", "v": "地铁 + 有轨电车为主，海边打车方便"}
+      ],
+      "tip": "旅顺方向公共交通较少，建议包车或打车往返。"
+    }
+  ],
+  "footer": "✎ 用心整理 · 祝旅途愉快"
+}
